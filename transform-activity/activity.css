@@ -1,3 +1,13 @@
 main {
+    transform: skew(-10deg, -10deg);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 
+.container {
+    width: 1000px;
+    margin-right: 10em auto;
+    padding: 11em;
+    position: relative;
+    left: 50px;
+    bottom: 50px;
 }
